@@ -23,16 +23,54 @@ Accent Colors:
 #bd5319
 */
 
+article {
+  margin: 1em;
+  color: #4a4a4a;
+}
+
+article, main {
+  padding: 1em;
+}
+
 body {
   background-color: #dddddd;
 }
 
-h1 {
-  font-size: 3em;
+footer {
+  margin: 1em;
+}
+
+h1, h2 {
   color: #00356b;
   text-align: center;
   margin: 1em;
 }
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+main {
+  margin: 1em;
+}
+
+p {
+  font-size: 1.25em;
+}
+
+small {
+  font-size: 0.75em;
+  color: #222222;
+}
+
+sub {
+  vertical-align: sub;
+}
+
 
 /* Make the site responsive with media queries */
 
