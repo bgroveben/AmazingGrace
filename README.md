@@ -8,6 +8,9 @@
 For now, let's start with some background info and a little biography.
 
 #### Handy links:
+* [1985 Commodore Hopper Lecture](https://www.youtube.com/watch?v=ZR0ujwlvbkQ) on the future of computing.  
+* [CHIPS articles](http://www.doncio.navy.mil/chips/ArticleDetails.aspx?ID=2265) about GH.
 * This website uses [APA style](https://en.wikipedia.org/wiki/APA_style) citations. Here's a [guide](http://www.easybib.com/reference/guide/apa/website).  
-* [CORS enabled images](https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image)  
+* [CORS enabled images](https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image)
+* [Navy Photo](https://upload.wikimedia.org/wikipedia/commons/5/55/Grace_Hopper.jpg)  
 * [Citing Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Citing_Wikipedia)
