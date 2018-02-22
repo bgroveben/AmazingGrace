@@ -1,0 +1,44 @@
+/*
+https://yaleidentity.yale.edu/web for the colors.
+http://gracehopper.yalecollege.yale.edu/grace-hopper-college
+*/
+
+/*
+Primary Color Palette:
+
+Blues:
+#00356b -- Yale Blue --
+#286dc0
+#63aaff
+
+Grays:
+#222222
+#4a4a4a
+#978d85
+#dddddd
+#f9f9f9
+
+Accent Colors:
+#5f712d
+#bd5319
+*/
+
+body {
+  background-color: #dddddd;
+}
+
+h1 {
+  font-size: 3em;
+  color: #00356b;
+  text-align: center;
+  margin: 1em;
+}
+
+/* Make the site responsive with media queries */
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    body {
+        width: 100%;
+    }
+}
