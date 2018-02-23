@@ -40,6 +40,11 @@ footer {
   margin: 1em;
 }
 
+footer p {
+  text-align: center;
+  color: #00356b;
+}
+
 h1, h2 {
   color: #00356b;
   text-align: center;
