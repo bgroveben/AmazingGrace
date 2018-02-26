@@ -6,6 +6,9 @@
 
 #### TODO:  
 For now, let's start with some background info and a little biography.
+[AI that designs landing pages](https://firedrop.ai/).  
+I think GH would like something like that.
+
 
 #### Handy links:
 * [Chips Ahoy Interview](http://web.archive.org/web/20090114165606/http://www.chips.navy.mil/archives/86_jul/interview.html)  
