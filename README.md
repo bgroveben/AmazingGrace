@@ -1,2 +1,22 @@
-This website can be customized to appeal to potential employers.  
-In theory.
+Employers need competent employees.  
+Employees need training and skills.  
+Companies need a more productive workforce.  
+Shareholders need a more profitable/productive company.  
+Technology can help with all of these things.  
+
+### Open Advancement  
+The purpose of technology is to assist people, not replace them.  
+In this case, technology will help people do their jobs more easily and efficiently.  
+The technical expertise gained by the employees can help them advance in their jobs and careers, as well as give them more options to live their lives on their terms.  
+As people's training and education continue and their skillset improves, they become more adept at facing the challenges their job presents, more effective at their jobs, and more productive workers.  
+Companies like more productive employees because shareholders like more productive companies, because someone has to pay for all of this, and we had better give them their money's worth.  
+When everyone wins, then there exists an opportunity for a positive cycle of an engaged workforce doing jobs that are genuinely rewarding because they have the means and abilities to help their customers, co-workers, and employers as well as support themselves and their families.  
+
+### What's The Catch
+The cost is reasonable.  
+We have to work for it.  
+1. Training and Education  
+* Flexible, continuous, transferable.  
+2. Accountability  
+* Employees learn the skills to earn the job, and they have to prove they can do it. Every day. Especially when we would rather be somewhere else. Or we will be.
+* Employers invest in their company's workforce and reward the shareholders.  That's it. If jobs can be done more efficiently with fewer people and more algorithms, so be it. It's a business, not a charity or an adult day care center. Even if you are safely and firmly entrenched in labor or management.
