@@ -20,3 +20,23 @@ We have to work for it.
 2. Accountability  
 * Employees learn the skills to earn the job, and they have to prove they can do it. Every day. Especially when we would rather be somewhere else. Or we will be.
 * Employers invest in their company's workforce and reward the shareholders.  That's it. If jobs can be done more efficiently with fewer people and more algorithms, so be it. It's a business, not a charity or an adult day care center. Even if you are safely and firmly entrenched in labor or management.
+
+# Great, how do we pay for it? A Business Plan.  
+
+## Services
+1. Full Service Restaurant  
+2. Catering  
+3. Consulting  
+4. Marketing and Branding  
+
+## People and Roles
+1. Operations Director - Benevolent Dictator in Charge of all People Involved
+2. Food And Beverage Director
+  - FOH Boss
+  - BOH Boss
+  - Restaurant Boss
+  - Catering Boss
+  - Executive Chef
+  - Support Staff A/N
+3. Marketing Director
+4. Consulting Director
