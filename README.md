@@ -21,13 +21,17 @@ We have to work for it.
 * Employees learn the skills to earn the job, and they have to prove they can do it. Every day. Especially when we would rather be somewhere else. Or we will be.
 * Employers invest in their company's workforce and reward the shareholders.  That's it. If jobs can be done more efficiently with fewer people and more algorithms, so be it. It's a business, not a charity or an adult day care center. Even if you are safely and firmly entrenched in labor or management.
 
-# Great, how do we pay for it? A Business Plan.  
+# Great, how do we pay for it? A Business Plan.
+* [Business Model Generation](https://www.strategyzer.com/books/business-model-generation). Here's the [Internet Archive copy](https://archive.org/details/bplans_Business_Model_Generation/page/n1).  
+* [SBA Business Guide](https://www.sba.gov/business-guide)
+* [Treehouse Business Courses](https://teamtreehouse.com/library/topic:business)
 
 ## Services
-1. Full Service Restaurant  
-2. Catering  
+1. Restaurant  
+2. Banquets and Catering  
 3. Consulting  
-4. Marketing and Branding  
+4. Marketing
+5.  Sales  
 
 ## People and Roles
 1. Operations Director - Benevolent Dictator in Charge of all People Involved
@@ -35,8 +39,12 @@ We have to work for it.
   - FOH Boss
   - BOH Boss
   - Restaurant Boss
-  - Catering Boss
+  - Banquets and Catering Boss
   - Executive Chef
   - Support Staff A/N
 3. Marketing Director
-4. Consulting Director
+4. Sales Director
+5. Consulting Director
+
+# Where do we start?
+With the restaurant, and with the fewest number of people on the payroll as possible. The restaurant has to turn a profit before any money is invested in any other part of the business, and shall remain the core operation unless we have a very compelling reason to shift our focus.
