@@ -24,7 +24,12 @@ We have to work for it.
 # Great, how do we pay for it? A Business Plan.
 * [Business Model Generation](https://www.strategyzer.com/books/business-model-generation). Here's the [Internet Archive copy](https://archive.org/details/bplans_Business_Model_Generation/page/n1).  
 * [SBA Business Guide](https://www.sba.gov/business-guide)
+* [SBA Business Plan](https://www.sba.gov/course/how-write-business-plan/)
 * [Treehouse Business Courses](https://teamtreehouse.com/library/topic:business)
+* [Nevada Governor's Office of Economic Development](http://www.diversifynevada.com/)  
+* [Census Bureau Statistics of US Businesses](https://www.census.gov/programs-surveys/susb.html)  
+* [Census Business Builder](https://www.census.gov/data/data-tools/cbb.html)
+* [Nevada Small Business Government Resources](https://nevadasmallbusiness.com/government-resources-for-nevadas-businesses/)
 
 ## Services
 1. Restaurant  
