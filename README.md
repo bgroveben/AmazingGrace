@@ -1,11 +1,14 @@
+# How do we help people?
 Employers need competent employees.  
 Employees need training and skills.  
+Developing skills requires job stability and advancement opportunities.
+More knowledgable, skilled, able, and resourceful employees are more productive.
 Companies need a more productive workforce.  
 Shareholders need a more profitable/productive company.  
 Technology can help with all of these things.  
 
-### Open Advancement  
-The purpose of technology is to assist people, not replace them.  
+## Running restaurants more efficiently.
+The purpose of technology is to help people, not replace them.  
 In this case, technology will help people do their jobs more easily and efficiently.  
 The technical expertise gained by the employees can help them advance in their jobs and careers, as well as give them more options to live their lives on their terms.  
 As people's training and education continue and their skillset improves, they become more adept at facing the challenges their job presents, more effective at their jobs, and more productive workers.  
@@ -33,28 +36,45 @@ We have to work for it.
 * [GOED Data Portal](http://www.diversifynevada.com/why-nevada/data-portal/)  
 * [North American Industry Classification System](https://www.census.gov/eos/www/naics/)  
 * [Market Research and Competitive Analysis](https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis)
+* [SBDC Nevada](https://nevadasbdc.org/) and their [Resources](https://nevadasbdc.org/toolbox/resource-links/)
 
 ## Services
 1. Restaurant  
 2. Banquets and Catering  
 3. Consulting  
 4. Marketing
-5.  Sales  
+5. Sales
+6. Small Business Development
 
 ## People and Roles
 1. Operations Director - Benevolent Dictator in Charge of all People Involved
+  - HR
+    - temps, part-timers, contractors
 2. Food And Beverage Director
   - FOH Boss
   - BOH Boss
   - Restaurant Boss
   - Banquets and Catering Boss
   - Executive Chef
-  - Support Staff A/N
+  - Support Staff
 3. Marketing Director
 4. Sales Director
 5. Consulting Director
 
 # Where do we start?
-With the restaurant, and with the fewest number of people on the payroll as possible. The restaurant has to turn a profit before any money is invested in any other part of the business, and shall remain the core operation unless we have a very compelling reason to shift our focus.
+With the restaurant, and with the fewest number of people on the payroll as possible. The restaurant has to turn a profit before any money is invested in any other part of the business, and should remain the core operation unless we have a very compelling reason to shift our focus.  
+* [Nevada Business Start Up Guide](http://business.nv.gov/Resource_Center/Nevada_Business_Start_Up_Guide/) and the [PDF](http://business.nv.gov/uploadedFiles/businessnvgov/content/Resource_Center/FINAL%20-%20January%202019a%20Business%20Startup%20Guide.pdf)
+
+* [Henderson Business Resource Center](https://www.hendersonchamber.com/programs/chamber-foundation/hbrc/)
 
 ## Business Plan
+
+* [Sample Business Plans](https://www.bplans.com/sample_business_plans.php)
+
+## Financing  
+* Sufficient to fully fund the first 3-5 years of gross operating expenses.
+* Capital expenses are limited to what can't be affordably rented, leased, or contracted out and serviced.  
+* Restaurant revenues pay the bills first.
+* All profits pay off the funding, loans, and creditors first.
+* Once the operation is profitable, profits are reinvested in the business.
+* If the business is not profitable, assets are liquidated and the business repays all debt before it dissolves.
