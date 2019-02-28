@@ -30,6 +30,9 @@ We have to work for it.
 * [Census Bureau Statistics of US Businesses](https://www.census.gov/programs-surveys/susb.html)  
 * [Census Business Builder](https://www.census.gov/data/data-tools/cbb.html)
 * [Nevada Small Business Government Resources](https://nevadasmallbusiness.com/government-resources-for-nevadas-businesses/)
+* [GOED Data Portal](http://www.diversifynevada.com/why-nevada/data-portal/)  
+* [North American Industry Classification System](https://www.census.gov/eos/www/naics/)  
+* [Market Research and Competitive Analysis](https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis)
 
 ## Services
 1. Restaurant  
@@ -53,3 +56,5 @@ We have to work for it.
 
 # Where do we start?
 With the restaurant, and with the fewest number of people on the payroll as possible. The restaurant has to turn a profit before any money is invested in any other part of the business, and shall remain the core operation unless we have a very compelling reason to shift our focus.
+
+## Business Plan
