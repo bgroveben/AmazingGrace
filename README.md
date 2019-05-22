@@ -2,14 +2,15 @@
 Employers need competent employees.  
 Employees need training and skills.  
 Developing skills requires job stability and advancement opportunities.
-More knowledgable, skilled, able, and resourceful employees are more productive.
+More knowledgable, skilled, able, and resourceful employees are more productive and engaged.
 Companies need a more productive workforce.  
 Shareholders need a more profitable/productive company.  
 Technology can help with all of these things.  
 
 ## Running restaurants more efficiently.
 The purpose of technology is to help people, not replace them.  
-In this case, technology will help people do their jobs more easily and efficiently.  
+In this case, technology will help people do their jobs more easily, efficiently and hygenically.  
+Technology can also be used to improve food safety and maintain a sanitary work environment.  
 The technical expertise gained by the employees can help them advance in their jobs and careers, as well as give them more options to live their lives on their terms.  
 As people's training and education continue and their skillset improves, they become more adept at facing the challenges their job presents, more effective at their jobs, and more productive workers.  
 Companies like more productive employees because shareholders like more productive companies, because someone has to pay for all of this, and we had better give them their money's worth.  
