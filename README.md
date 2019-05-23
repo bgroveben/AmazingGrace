@@ -43,7 +43,7 @@ We have to work for it.
 1. Restaurant  
 2. Banquets and Catering  
 3. Consulting  
-4. Marketing
+4. Marketing and Branding -- Ads, blog, social media, and so forth.
 5. Sales
 6. Small Business Development
 
@@ -63,7 +63,7 @@ We have to work for it.
 5. Consulting Director
 
 # Where do we start?
-With the restaurant, and with the fewest number of people on the payroll as possible. The restaurant has to turn a profit before any money is invested in any other part of the business, and should remain the core operation unless we have a very compelling reason to shift our focus.  
+With the restaurant, and with the fewest number of people on the payroll as possible. Banquets and Catering is the first best way to maximize the restaurant's added revenues while minimizing additional costs. The restaurant has to turn a profit before any money is invested in any other part of the business, and should remain the core operation unless we have a very compelling reason to shift our focus.  
 * [Nevada Business Start Up Guide](http://business.nv.gov/Resource_Center/Nevada_Business_Start_Up_Guide/) and the [PDF](http://business.nv.gov/uploadedFiles/businessnvgov/content/Resource_Center/FINAL%20-%20January%202019a%20Business%20Startup%20Guide.pdf)
 
 * [Henderson Business Resource Center](https://www.hendersonchamber.com/programs/chamber-foundation/hbrc/)
